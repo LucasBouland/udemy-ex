@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\prepudemy\console\bin\Debug\netcoreapp3.1\console.exe
+C:\Users\Lucas\source\repos\prepudemy\console\bin\Debug\netcoreapp3.1\console.deps.json
+C:\Users\Lucas\source\repos\prepudemy\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.json
+C:\Users\Lucas\source\repos\prepudemy\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\prepudemy\console\bin\Debug\netcoreapp3.1\console.dll
+C:\Users\Lucas\source\repos\prepudemy\console\bin\Debug\netcoreapp3.1\console.pdb
+C:\Users\Lucas\source\repos\prepudemy\console\obj\Debug\netcoreapp3.1\console.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\prepudemy\console\obj\Debug\netcoreapp3.1\console.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\prepudemy\console\obj\Debug\netcoreapp3.1\console.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\prepudemy\console\obj\Debug\netcoreapp3.1\console.dll
+C:\Users\Lucas\source\repos\prepudemy\console\obj\Debug\netcoreapp3.1\console.pdb
